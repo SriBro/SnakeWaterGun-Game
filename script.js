@@ -1,15 +1,3 @@
-//Q4)If number is greater than 4 redirect to google.com
-// let number = prompt("Enter a number: ");
-// if(number>4){
-//     location.href = "https://google.com";
-// }
-//Q5)change the background of the page based on user input value
-// let color = prompt("Enter the color of the page you want: ");
-// document.body.style.background = color;
-// let choice1 = prompt("Enter choice1: ");
-// let randomIndex = Math.floor(Math.random() * 3);
-// let characters = ['s', 'w', 'g'];
-// let choice2 = characters[randomIndex];
 let playAgain = true;
 let recordYou = 0;
 let recordComputer = 0;
